@@ -1,0 +1,14 @@
+# Redis and RedisVL for vector search
+redis
+redisvl
+
+# Data processing
+pandas
+
+# Text embeddings and NLP
+sentence-transformers
+
+
+# Optional: Jupyter notebook support
+# ipykernel>=6.0.0
+# jupyter>=1.0.0
